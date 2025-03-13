@@ -1,0 +1,122 @@
+==== Hospital Management System ====
+1. Add Patient
+2. Search Patient
+3. Delete Patient
+4. Add Appointment
+5. Serve Next Patient
+6. Display Patients
+7. Display Appointments
+8. Exit
+Enter Choice: 1
+Enter Patient Name: John Doe
+Enter Age: 30
+Enter Disease: Flu
+Patient Added Successfully! ID: 1
+
+==== Hospital Management System ====
+1. Add Patient
+2. Search Patient
+3. Delete Patient
+4. Add Appointment
+5. Serve Next Patient
+6. Display Patients
+7. Display Appointments
+8. Exit
+Enter Choice: 1
+Enter Patient Name: Jane Smith
+Enter Age: 25
+Enter Disease: Fever
+Patient Added Successfully! ID: 2
+
+==== Hospital Management System ====
+1. Add Patient
+2. Search Patient
+3. Delete Patient
+4. Add Appointment
+5. Serve Next Patient
+6. Display Patients
+7. Display Appointments
+8. Exit
+Enter Choice: 6
+
+----- Patient Records -----
+ID: 2 | Name: Jane Smith | Age: 25 | Disease: Fever
+ID: 1 | Name: John Doe | Age: 30 | Disease: Flu
+
+==== Hospital Management System ====
+1. Add Patient
+2. Search Patient
+3. Delete Patient
+4. Add Appointment
+5. Serve Next Patient
+6. Display Patients
+7. Display Appointments
+8. Exit
+Enter Choice: 4
+Enter Patient ID for Appointment: 1
+Appointment Booked for Patient ID: 1 (John Doe)
+
+==== Hospital Management System ====
+1. Add Patient
+2. Search Patient
+3. Delete Patient
+4. Add Appointment
+5. Serve Next Patient
+6. Display Patients
+7. Display Appointments
+8. Exit
+Enter Choice: 4
+Enter Patient ID for Appointment: 2
+Appointment Booked for Patient ID: 2 (Jane Smith)
+
+==== Hospital Management System ====
+1. Add Patient
+2. Search Patient
+3. Delete Patient
+4. Add Appointment
+5. Serve Next Patient
+6. Display Patients
+7. Display Appointments
+8. Exit
+Enter Choice: 7
+
+----- Appointment Queue -----
+Patient ID: 1 | Name: John Doe
+Patient ID: 2 | Name: Jane Smith
+
+==== Hospital Management System ====
+1. Add Patient
+2. Search Patient
+3. Delete Patient
+4. Add Appointment
+5. Serve Next Patient
+6. Display Patients
+7. Display Appointments
+8. Exit
+Enter Choice: 5
+Serving Patient ID: 1, Name: John Doe
+
+==== Hospital Management System ====
+1. Add Patient
+2. Search Patient
+3. Delete Patient
+4. Add Appointment
+5. Serve Next Patient
+6. Display Patients
+7. Display Appointments
+8. Exit
+Enter Choice: 7
+
+----- Appointment Queue -----
+Patient ID: 2 | Name: Jane Smith
+
+==== Hospital Management System ====
+1. Add Patient
+2. Search Patient
+3. Delete Patient
+4. Add Appointment
+5. Serve Next Patient
+6. Display Patients
+7. Display Appointments
+8. Exit
+Enter Choice: 8
